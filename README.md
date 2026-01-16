@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pratyush%20Mishra&fontAlign=50&fontAlignY=35&color=0:111827,100:000000&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pratyush%20Mishra&fontAlign=50&fontAlignY=35&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Aspiring AI Engineer | AI Agents | Vibe Coding | Python Developer</h2>
