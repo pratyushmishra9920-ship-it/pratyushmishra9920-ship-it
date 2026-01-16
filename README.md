@@ -50,6 +50,7 @@
 ### 🌌 NeuralCommand — Futuristic AI Website
 A premium, futuristic AI-themed website built using **vibe coding with Helium** and deployed on **Cloudflare Pages** in record time.  
 This project showcases how fast modern AI tools can turn ideas into fully live products.  
+🔗 Live Demo: https://neuralcommand.pages.dev/  
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/neuralcommand-website  
 
 ---
