@@ -64,7 +64,7 @@
 
 ---
 
-###  Antigravity Life Os
+###  Antigravity Life OS
 AI-powered productivity dashboard built with Antigravity — your second brain for tasks, habits, goals, and planning.
 🔗 Live Demo: https://pratyushmishra9920-ship-it.github.io/antigravity-life-os/
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/antigravity-life-os 
