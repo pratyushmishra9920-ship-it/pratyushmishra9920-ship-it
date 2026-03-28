@@ -64,24 +64,7 @@
 
 ---
 
-### <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="200" fill="#0D1117"/>
-  
-  <defs>
-    <linearGradient id="antigravity-gradient" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3B82F6" /> <stop offset="30%" style="stop-color:#10B981" /> <stop offset="60%" style="stop-color:#FACC15" /> <stop offset="85%" style="stop-color:#EF4444" /> <stop offset="100%" style="stop-color:#D946EF" /> </linearGradient>
-  </defs>
-
-  <path d="M40 160 
-           C 40 160, 45 40, 100 40 
-           C 155 40, 160 160, 160 160 
-           L 145 160 
-           C 145 160, 140 85, 100 85 
-           C 60 85, 55 160, 55 160 
-           Z" 
-        fill="url(#antigravity-gradient)" />
-</svg>
- Antigravity Life OS
+###  Antigravity Life OS
 AI-powered productivity dashboard built with Antigravity — your second brain for tasks, habits, goals, and planning.
 🔗 Live Demo: https://pratyushmishra9920-ship-it.github.io/antigravity-life-os/
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/antigravity-life-os 
