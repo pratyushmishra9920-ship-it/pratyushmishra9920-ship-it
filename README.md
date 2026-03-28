@@ -65,9 +65,9 @@
 ---
 
 ###  Antigravity Life Os
-A premium futuristic AI website built using **vibe coding with Helium**, deployed on **Cloudflare Pages** in record time.  
-🔗 Live Demo: https://neuralcommand.pages.dev/  
-📌 Repo: https://github.com/pratyushmishra9920-ship-it/neuralcommand-website  
+AI-powered productivity dashboard built with Antigravity — your second brain for tasks, habits, goals, and planning.
+🔗 Live Demo: https://pratyushmishra9920-ship-it.github.io/antigravity-life-os/
+📌 Repo: https://github.com/pratyushmishra9920-ship-it/antigravity-life-os 
 
 ---
 
