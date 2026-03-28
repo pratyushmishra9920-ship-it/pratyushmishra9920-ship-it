@@ -64,6 +64,13 @@
 
 ---
 
+###  Antigravity Life Os
+A premium futuristic AI website built using **vibe coding with Helium**, deployed on **Cloudflare Pages** in record time.  
+🔗 Live Demo: https://neuralcommand.pages.dev/  
+📌 Repo: https://github.com/pratyushmishra9920-ship-it/neuralcommand-website  
+
+---
+
 ### 🌌 NeuralCommand — Futuristic AI Website
 A premium futuristic AI website built using **vibe coding with Helium**, deployed on **Cloudflare Pages** in record time.  
 🔗 Live Demo: https://neuralcommand.pages.dev/  
