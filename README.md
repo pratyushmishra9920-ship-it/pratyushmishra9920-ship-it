@@ -73,13 +73,6 @@ AI-powered productivity dashboard built with Antigravity — your second brain f
 
 ---
 
-### 🌌 NeuralCommand — Futuristic AI Website
-A premium futuristic AI website built using **vibe coding with Helium**, deployed on **Cloudflare Pages** in record time.  
-🔗 Live Demo: https://neuralcommand.pages.dev/  
-📌 Repo: https://github.com/pratyushmishra9920-ship-it/neuralcommand-website  
-
----
-
 ### 🧠 AI Text Summarization Agent | Gemini 2.5 Flash
 Multi-mode summarization system powered by **Gemini 2.5 Flash**:
 short / medium / long / bullet / simple / professional + keyword extraction + sentiment + final takeaway.  
