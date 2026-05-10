@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/pratyush-mishra-758a0339a">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:pratyushmishra9920@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/pratyushmishra9920-ship-it">
@@ -27,13 +27,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Student | Aspiring **AI Engineer**
-- 🤖 Building **AI Agents** + automation workflows for real-world productivity
-- 🐍 Strong in **Python development**
-- 📊 Data Tools: **NumPy, Pandas, Matplotlib**
-- ⚡ Skilled in **Vibe Coding** to ship products fast
-- 🧠 I also create **Notion Templates** for productivity & students
-- 📌 Current focus: **Applied AI projects + AI agent systems**
+- 🎓 B.Tech Student focused on AI & Data Science
+- 🤖 Building practical AI projects & automation workflows
+- 🐍 Strong foundation in Python
+- 📊 Learning NumPy, Pandas & Matplotlib deeply
+- 🚀 Exploring AI Agents & Applied AI systems
 
 ---
 
