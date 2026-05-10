@@ -35,6 +35,18 @@
 
 ---
 
+## 📈 Current Focus
+
+- Advanced Python
+- Exploratory Data Analysis (EDA)
+- Machine Learning Fundamentals
+- Mathematics for Machine Learning
+- Data Science with NumPy, Pandas & Matplotlib
+- DSA with Python
+- Building Practical AI Projects
+
+---
+
 ## 🧰 Skills / Tech Stack
 
 <p align="left">
