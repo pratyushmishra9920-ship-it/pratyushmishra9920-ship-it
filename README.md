@@ -72,7 +72,7 @@
 
 ---
 
-## 🔥 Featured Projects (Best Work)
+## 🔥 Featured Projects 
 
 ### 🚀 CampusBuddy AI — AI Student Assistant Dashboard
 ✅ Notes Summarizer + Important Questions Generator + Revision Planner + CGPA Tracker  
