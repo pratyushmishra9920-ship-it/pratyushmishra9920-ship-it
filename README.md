@@ -35,6 +35,13 @@
 
 ---
 
+## 🌟 Leadership & Community
+
+- Campus Crew Ambassador — HackerRank
+- Campus Ambassador — EDC IIT Delhi
+
+---
+
 ## 📈 Current Focus
 
 - Advanced Python
