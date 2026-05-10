@@ -44,11 +44,12 @@
 
 ## 📈 Current Focus
 
-- Advanced Python
+- Advanced Python Programming
 - Exploratory Data Analysis (EDA)
+- Data Analysis using Pandas & NumPy
+- Data Visualization with Matplotlib
 - Machine Learning Fundamentals
 - Mathematics for Machine Learning
-- Data Science with NumPy, Pandas & Matplotlib
 - DSA with Python
 - Building Practical AI Projects
 
