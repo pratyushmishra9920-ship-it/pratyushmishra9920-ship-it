@@ -60,9 +60,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=googlegemini"/>
   <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n"/>
   <img src="https://img.shields.io/badge/Vibe%20Coding-000?style=for-the-badge&logo=vercel"/>
