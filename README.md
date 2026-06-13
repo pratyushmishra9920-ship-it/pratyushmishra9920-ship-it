@@ -77,9 +77,9 @@
 
 ### 🎥 YouTube Clone
 A responsive YouTube homepage clone built with HTML5, CSS3, CSS Grid, and Flexbox. Features a fixed header, interactive sidebar, tooltips, clickable video thumbnails, and channel links. Deployed using GitHub Pages.
-
+<br>
 🔗 Live Demo: https://pratyushmishra9920-ship-it.github.io/youtube-clone/
-
+<br>
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/youtube-clone
 
 ### 🚀 CampusBuddy AI — AI Student Assistant Dashboard
