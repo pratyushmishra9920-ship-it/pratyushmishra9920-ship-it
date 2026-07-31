@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly"/>
