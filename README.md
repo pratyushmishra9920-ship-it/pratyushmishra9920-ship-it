@@ -100,15 +100,6 @@ A responsive YouTube homepage clone built with HTML5, CSS3, CSS Grid, and Flexbo
 
 ---
 
-### ⚡ Antigravity Life OS
-AI-powered productivity dashboard built with Antigravity — your second brain for tasks, habits, goals, and planning.
-<br>
-🔗 Live Demo: https://pratyushmishra9920-ship-it.github.io/antigravity-life-os/ 
-<br>
-📌 Repo: https://github.com/pratyushmishra9920-ship-it/antigravity-life-os 
-
----
-
 ### 🧠 AI Text Summarization Agent | Gemini 2.5 Flash
 Multi-mode summarization system powered by **Gemini 2.5 Flash**:
 short / medium / long / bullet / simple / professional + keyword extraction + sentiment + final takeaway.  
