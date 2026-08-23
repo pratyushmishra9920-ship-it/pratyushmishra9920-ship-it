@@ -78,6 +78,14 @@
 
 ## 🔥 Featured Projects 
 
+### 🐾 Pokémon Explorer
+
+Flask-based REST API web application that lets users explore Pokémon data, search for characters, and interact with a Pokémon REST API through a simple web interface.
+
+🔗 Live Demo: https://pokemon-explorer-ysso.onrender.com/ 
+<br> 
+📌 Repo: https://github.com/pratyushmishra9920-ship-it/Pokemon_Explorer
+
 ### 🎥 YouTube Clone
 A responsive YouTube homepage clone built with HTML5, CSS3, CSS Grid, and Flexbox. Features a fixed header, interactive sidebar, tooltips, clickable video thumbnails, and channel links. Deployed using GitHub Pages.
 <br>
