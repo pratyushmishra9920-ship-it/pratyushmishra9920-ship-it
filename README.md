@@ -86,8 +86,8 @@ Flask-based REST API web application that lets users explore Pokémon data, sear
 <br> 
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/Pokemon_Explorer
 
-### 🎥 YouTube Clone
-A responsive YouTube homepage clone built with HTML5, CSS3, CSS Grid, and Flexbox. Features a fixed header, interactive sidebar, tooltips, clickable video thumbnails, and channel links. Deployed using GitHub Pages.
+### 🎥 VideoHub
+A responsive video streaming platform UI built with HTML5, CSS3, CSS Grid, and Flexbox, featuring a fixed header, sidebar navigation, tooltips, video cards, thumbnails, and channel links.
 <br>
 🔗 Live Demo: https://videohub-ashen-beta.vercel.app/
 <br>
