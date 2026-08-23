@@ -91,7 +91,7 @@ A responsive video streaming platform UI built with HTML5, CSS3, CSS Grid, and F
 <br>
 🔗 Live Demo: https://videohub-ashen-beta.vercel.app/
 <br>
-📌 Repo: https://github.com/pratyushmishra9920-ship-it/youtube-clone
+📌 Repo: https://github.com/pratyushmishra9920-ship-it/videohub
 
 ### 🚀 CampusBuddy AI — AI Student Assistant Dashboard
 ✅ Notes Summarizer + Important Questions Generator + Revision Planner + CGPA Tracker  
