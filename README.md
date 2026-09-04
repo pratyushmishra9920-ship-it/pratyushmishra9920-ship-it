@@ -100,14 +100,6 @@ A responsive video streaming platform UI built with HTML5, CSS3, CSS Grid, and F
 
 ---
 
-### 🧠 AI Text Summarization Agent | Gemini 2.5 Flash
-Multi-mode summarization system powered by **Gemini 2.5 Flash**:
-short / medium / long / bullet / simple / professional + keyword extraction + sentiment + final takeaway.  
-Built during **Google 5-Day AI Intensive — Capstone Project**.  
-📌 Repo: https://github.com/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent  
-
----
-
 ### 🌍 Global AI & Data Science Salaries (2020–2025)
 Multi-country, multi-role synthetic salary dataset with complete EDA, notebooks (Python/R), visuals & benchmarking insights.  
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/ai-data-science-salaries-2020-2025  
