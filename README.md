@@ -80,8 +80,6 @@
 
 ### 🔍 Git Repo Auditor
 
-[Git Repo Auditor](https://github.com/pratyushmishra9920-ship-it/pratyushmishra9920-ship-it/blob/main/README.md#-git-repo-auditor)
-
 Python CLI tool that analyzes Git repositories directly from the terminal, providing repository statistics, commit history, branch comparisons, contributor information, and other useful insights.
 
 📌 Repo: https://github.com/pratyushmishra9920-ship-it/git_repo_auditor
