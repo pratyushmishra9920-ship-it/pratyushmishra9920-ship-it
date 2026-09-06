@@ -78,6 +78,14 @@
 
 ## 🔥 Featured Projects 
 
+### 🔍 Git Repo Auditor
+
+[svg](https://github.com/pratyushmishra9920-ship-it#-git-repo-auditor)
+
+Python CLI tool that analyzes Git repositories directly from the terminal, providing repository statistics, commit history, branch comparisons, contributor information, and other useful insights.
+
+📌 Repo: https://github.com/pratyushmishra9920-ship-it/git_repo_auditor
+
 ### 🐾 Pokémon Explorer
 
 Flask-based REST API web application that lets users explore Pokémon data, search for characters, and interact with a Pokémon REST API through a simple web interface.
