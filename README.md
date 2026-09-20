@@ -103,9 +103,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/Command%20Line-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel"/>
   <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/YAML-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown"/>
+  <img src="https://img.shields.io/badge/Vibe%20Coding-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n"/>
