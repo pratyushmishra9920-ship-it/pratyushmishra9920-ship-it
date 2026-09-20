@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Building+AI+Projects+That+Solve+Real+Problems;Python+%7C+Flask+%7C+REST+APIs+%7C+Data+Science;AI+Consumption+%2B+API+Integration;Python+%7C+Gemini+%7C+n8n+%7C+Machine+Learning;Building+in+Public+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Building+AI+Projects+That+Solve+Real+Problems;Python+%7C+Flask+%7C+REST+APIs+%7C+Data+Science;AI+API+Consumption+%2B+Integration;Python+%7C+Gemini+%7C+n8n+%7C+Machine+Learning;Building+in+Public+%7C+Always+Learning" />
 </p>
 
 <!-- Social Links -->
@@ -51,18 +51,11 @@
 ## 📈 Current Focus
 
 * Advanced Python Programming
-* Python CLI Development
-* REST API Development
-* Flask
-* AI API Consumption & Integration
 * Exploratory Data Analysis (EDA)
-* Data Analysis using Pandas & NumPy
-* Data Visualization with Matplotlib & Seaborn
-* Machine Learning Fundamentals
-* Mathematics for Machine Learning
-* DSA with Python
-* Linux & Command-Line Tools
-* Building Practical AI Projects
+* Machine Learning
+* Generative AI
+* Large Language Models (LLMs)
+* Building Practical AI & Data Science Projects
 
 ---
 
@@ -78,19 +71,23 @@
   <img src="https://img.shields.io/badge/CLI%20Development-000?style=for-the-badge"/>
 </p>
 
-### 📊 Data Science
+### 📊 Data Science & Machine Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly"/>
   <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-000?style=for-the-badge"/>
 </p>
 
-### 🤖 AI & API Integration
+### 🤖 AI & Generative AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=googlegemini"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%20API%20Integration-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Consumption-000?style=for-the-badge"/>
 </p>
@@ -100,8 +97,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/Command%20Line-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json"/>
-  <img src="https://img.shields.io/badge/YAML-000?style=for-the-badge&logo=yaml"/>
+  <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YAML-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
@@ -166,4 +163,3 @@ Multi-country, multi-role synthetic salary dataset with complete EDA, notebooks,
 ---
 
 ⭐ If you like what I build, follow me — I’m building practical projects across Python, AI, APIs and Data Science.
-
