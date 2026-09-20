@@ -48,6 +48,13 @@
 
 ---
 
+## 🎓 Training & Internship
+
+* **Summer Internship — Artificial Intelligence & Machine Learning**
+  Innovation & Incubation Hub MNNIT Foundation (IIHMF) — **15 June–15 July 2026**
+
+---
+
 ## 📈 Current Focus
 
 * Advanced Python Programming
@@ -66,6 +73,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/REST%20API-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CLI%20Development-000?style=for-the-badge"/>
