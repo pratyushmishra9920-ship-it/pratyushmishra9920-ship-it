@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Building+AI+Projects+That+Solve+Real+Problems;Python+%7C+Flask+%7C+REST+APIs+%7C+Data+Science;AI+API+Consumption+%2B+Integration;Python+%7C+Gemini+%7C+n8n+%7C+Machine+Learning;Building+in+Public+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Building+AI+Projects+That+Solve+Real+Problems;Python+%7C+Flask+%7C+REST+APIs+%7C+Data+Science;AI+API+Consumption+%2B+Integration;Python+%7C+Machine+Learning+%7C+Data+Science;Building+in+Public+%7C+Always+Learning" />
 </p>
 
 <!-- Social Links -->
@@ -82,14 +82,11 @@
   <img src="https://img.shields.io/badge/EDA-000?style=for-the-badge"/>
 </p>
 
-### 🤖 AI & Generative AI
+### 🔌 APIs & Integration
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=googlegemini"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20API%20Integration-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Consumption-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Integration-000?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Tools & Technologies
