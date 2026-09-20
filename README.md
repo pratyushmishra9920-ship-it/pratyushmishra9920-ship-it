@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pratyush%20Mishra&fontAlign=50&fontAlignY=35&color=0:000000,50:2b1055,100:000000&fontColor=ffffff&fontSize=72" />
 </p>
 
-<h2 align="center">Aspiring AI Engineer | Python Developer | Data Science Enthusiast</h2>
+<h2 align="center">Aspiring AI/ML Engineer | Python Developer | Data Science Enthusiast</h2>
 
 <!-- Typing Animation -->
 
