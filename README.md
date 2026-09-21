@@ -86,6 +86,7 @@
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly"/>
   <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/EDA-000?style=for-the-badge"/>
 </p>
