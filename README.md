@@ -91,6 +91,13 @@
   <img src="https://img.shields.io/badge/EDA-000?style=for-the-badge"/>
 </p>
 
+### 🗄️ Databases & SQL
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Database%20Fundamentals-000?style=for-the-badge"/>
+</p>
+
 ### 🔌 APIs & Integration
 
 <p align="left">
@@ -112,6 +119,7 @@
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n"/>
 </p>
+
 
 ---
 
