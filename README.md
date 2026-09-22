@@ -30,15 +30,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Student focused on AI, Machine Learning & Data Science
-🐍 Building practical applications with Python
-🔌 Working with REST APIs, API integration & AI API consumption
-🌐 Developing web applications and APIs using Flask
-📊 Working with NumPy, Pandas, Matplotlib & Seaborn
-🗄️ Working with SQL fundamentals and database fundamentals
-💻 Comfortable with Linux and command-line workflows
-🧩 Working with JSON, YAML & Markdown for APIs, configuration and documentation
-🚀 Building practical AI and data-driven projects
+* 🎓 B.Tech Student focused on AI, Machine Learning & Data Science
+* 🐍 Building practical applications with Python
+* 🔌 Working with REST APIs, API integration & AI API consumption
+* 🌐 Developing web applications and APIs using Flask
+* 📊 Working with NumPy, Pandas, Matplotlib & Seaborn
+* 🗄️ Working with SQL fundamentals and database fundamentals
+* 💻 Comfortable with Linux and command-line workflows
+* 🧩 Working with JSON, YAML & Markdown for APIs, configuration and documentation
+* 🚀 Building practical AI and data-driven projects
 
 ---
 
