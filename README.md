@@ -94,7 +94,7 @@
 ### 🗄️ Databases & SQL
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQL%20Fundamentals-000?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/Database%20Fundamentals-000?style=for-the-badge"/>
 </p>
 
