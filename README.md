@@ -62,7 +62,6 @@
 * Machine Learning
 * Generative AI
 * Large Language Models (LLMs)
-* Building Practical AI & Data Science Projects
 
 ---
 
