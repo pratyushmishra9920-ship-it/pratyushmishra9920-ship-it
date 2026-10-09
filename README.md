@@ -67,11 +67,6 @@
         Earned Completionist status by collecting stickers
         through Hacktoberfest activities and challenges.
       </p>
-      <p>
-        <a href="https://hacktoberfest.com/">
-          Hacktoberfest
-        </a>
-      </p>
     </td>
   </tr>
 </table>
