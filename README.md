@@ -47,19 +47,34 @@
 * Campus Crew Ambassador — HackerRank
 * Campus Ambassador — EDC IIT Delhi
 
+
 ---
 
 ## 🏆 Achievements & Recognition
 
-<p align="center">
-  <img src="assets/hacktoberfest-2026-completionist.webp" alt="Hacktoberfest 2026 Completionist Badge" width="140"/>
-</p>
-
-<p align="center">
-  <strong>Hacktoberfest 2026 Completionist</strong>
-  <br/>
-  Earned Completionist status by collecting stickers through Hacktoberfest activities and challenges.
-</p>
+<table>
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <img
+        src="assets/hacktoberfest-2026-completionist.webp"
+        alt="Hacktoberfest 2026 Completionist Badge"
+        width="130"
+      />
+    </td>
+    <td valign="middle">
+      <h3>Hacktoberfest 2026 Completionist</h3>
+      <p>
+        Earned Completionist status by collecting stickers
+        through Hacktoberfest activities and challenges.
+      </p>
+      <p>
+        <a href="https://hacktoberfest.com/">
+          Hacktoberfest
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
