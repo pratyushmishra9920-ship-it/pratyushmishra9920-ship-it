@@ -49,6 +49,20 @@
 
 ---
 
+## 🏆 Achievements & Recognition
+
+<p align="center">
+  <img src="assets/hacktoberfest-2026-completionist.webp" alt="Hacktoberfest 2026 Completionist Badge" width="140"/>
+</p>
+
+<p align="center">
+  <strong>Hacktoberfest 2026 Completionist</strong>
+  <br/>
+  Earned Completionist status by collecting stickers through Hacktoberfest activities and challenges.
+</p>
+
+---
+
 ## 🎓 Training & Internship
 
 * **Summer Internship — Artificial Intelligence & Machine Learning** at **Innovation & Incubation Hub MNNIT Foundation (IIHMF)** — 15 June–15 July 2026
