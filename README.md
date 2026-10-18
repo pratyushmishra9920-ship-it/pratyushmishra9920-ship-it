@@ -54,19 +54,17 @@
 
 <table>
   <tr>
-    <td width="180" align="center" valign="middle">
-      <img
-        src="assets/hacktoberfest-2026-completionist.webp"
-        alt="Hacktoberfest 2026 Completionist Badge"
-        width="130"
-      />
+    <td align="center" width="50%" valign="top">
+      <img src="assets/hacktoberfest-2026-completionist.webp" alt="Hacktoberfest Completionist" width="120">
+      <br><br>
+      <strong>Hacktoberfest 2026 Completionist</strong>
+      <p>Earned Completionist status by collecting stickers through Hacktoberfest activities and challenges.</p>
     </td>
-    <td valign="middle">
-      <h3>Hacktoberfest 2026 Completionist</h3>
-      <p>
-        Earned Completionist status by collecting stickers
-        through Hacktoberfest activities and challenges.
-      </p>
+    <td align="center" width="50%" valign="top">
+      <img src="assets/hacktoberfest-2026-completionist-plus-plus.png" alt="Hacktoberfest Completionist++" width="120">
+      <br><br>
+      <strong>Hacktoberfest 2026 Completionist++</strong>
+      <p>Earned Completionist++ recognition through additional Hacktoberfest achievements.</p>
     </td>
   </tr>
 </table>
