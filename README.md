@@ -63,7 +63,7 @@
       <p>Earned Completionist status by collecting stickers through Hacktoberfest activities and challenges.</p>
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="assets/hacktoberfest-2026-milestone-completionist-plus-plus.png" alt="Hacktoberfest Completionist++" width="130">
+      <img src="assets/hacktoberfest-2026-milestone-completionist-plus-plus.png" alt="Hacktoberfest Completionist++" width="120">
       <br><br>
       <strong>Hacktoberfest 2026 Completionist++</strong>
       <p>Earned Completionist++ recognition through additional Hacktoberfest achievements.</p>
