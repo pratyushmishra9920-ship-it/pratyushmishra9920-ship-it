@@ -75,13 +75,13 @@
 
 **Hacktoberfest 2026 — Completionist++**
 
-[![View Completionist++ Certificate](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+[View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
 
 **Hacktoberfest 2026 — Completionist**
 
-[![View Completionist Certificate](assets/hacktoberfest-2026-completionist-certificate-2026.png)](assets/hacktoberfest-2026-completionist-certificate-2026.png)
+[View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
 
-<!-- Add future certificates above this line using the same format. -->
+<!-- Add new certificates here using the same format. -->
 
 ---
 
