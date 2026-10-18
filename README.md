@@ -73,13 +73,13 @@
 
 ### 📜 Certificates
 
-**1. Hacktoberfest 2026 — Completionist++**
+**Hacktoberfest 2026 — Completionist++**
 
-[View Certificate →](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+[![View Completionist++ Certificate](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
 
-**2. Hacktoberfest 2026 — Completionist**
+**Hacktoberfest 2026 — Completionist**
 
-[View Certificate →](assets/hacktoberfest-2026-completionist-certificate-2026.png)
+[![View Completionist Certificate](assets/hacktoberfest-2026-completionist-certificate-2026.png)](assets/hacktoberfest-2026-completionist-certificate-2026.png)
 
 <!-- Add future certificates above this line using the same format. -->
 
