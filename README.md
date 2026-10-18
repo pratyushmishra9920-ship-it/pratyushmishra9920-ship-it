@@ -87,7 +87,9 @@
 
 ## 🎓 Training & Internship
 
-* **Summer Internship — Artificial Intelligence & Machine Learning** at **Innovation & Incubation Hub MNNIT Foundation (IIHMF)** — 15 June–15 July 2026
+- **Summer Internship — Artificial Intelligence & Machine Learning** at **Innovation & Incubation Hub MNNIT Foundation (IIHMF)** — 15 June–15 July 2026
+
+  [View Internship Certificate ↗](assets/internship.jpg)
 
 ---
 
