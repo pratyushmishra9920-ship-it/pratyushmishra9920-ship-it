@@ -77,13 +77,9 @@
 
 [View Certificate →](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
 
-*Earned October 14, 2026*
-
 **2. Hacktoberfest 2026 — Completionist**
 
 [View Certificate →](assets/hacktoberfest-2026-completionist-certificate-2026.png)
-
-*Earned October 9, 2026*
 
 <!-- Add future certificates above this line using the same format. -->
 
