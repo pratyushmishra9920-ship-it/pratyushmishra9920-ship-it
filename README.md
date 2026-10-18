@@ -50,7 +50,9 @@
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Certificates
+
+### 🌟 Achievements
 
 <table>
   <tr>
@@ -61,13 +63,29 @@
       <p>Earned Completionist status by collecting stickers through Hacktoberfest activities and challenges.</p>
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="assets/hacktoberfest-2026-milestone-completionist-plus-plus.png" alt="Hacktoberfest Completionist++" width="130">
+      <img src="assets/hacktoberfest-2026-milestone-completionist-plus-plus.png" alt="Hacktoberfest Completionist++" width="150">
       <br><br>
       <strong>Hacktoberfest 2026 Completionist++</strong>
       <p>Earned Completionist++ recognition through additional Hacktoberfest achievements.</p>
     </td>
   </tr>
 </table>
+
+### 📜 Certificates
+
+**1. Hacktoberfest 2026 — Completionist++**
+
+[View Certificate →](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+
+*Earned October 14, 2026*
+
+**2. Hacktoberfest 2026 — Completionist**
+
+[View Certificate →](assets/hacktoberfest-2026-completionist-certificate-2026.png)
+
+*Earned October 9, 2026*
+
+<!-- Add future certificates above this line using the same format. -->
 
 ---
 
