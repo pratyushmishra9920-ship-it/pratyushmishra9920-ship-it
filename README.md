@@ -75,7 +75,7 @@
 
 1. **HackerRank — Python (Basic)**
 
-   [View Certificate ↗](https://www.hackerrank.com/certificates/c8afa5db4af9)
+   [View Certificate ↗](https://www.hackerrank.com/certificates/iframe/c8afa5db4af9)
 
 2. **Hacktoberfest 2026 — Completionist++**
 
