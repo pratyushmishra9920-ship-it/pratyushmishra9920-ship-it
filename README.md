@@ -73,13 +73,17 @@
 
 ### 📜 Certificates
 
-**1. Hacktoberfest 2026 — Completionist++**
+1. **HackerRank — Python (Basic)**
 
-[View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+   [View Certificate ↗](https://www.hackerrank.com/certificates/c8afa5db4af9)
 
-**2. Hacktoberfest 2026 — Completionist**
+2. **Hacktoberfest 2026 — Completionist++**
 
-[View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
+   [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+
+3. **Hacktoberfest 2026 — Completionist**
+
+   [View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
 
 <!-- Add new certificates below using the next number. -->
 
