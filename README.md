@@ -86,10 +86,12 @@
 3. **Hacktoberfest 2026 — Completionist++**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+   
 
 4. **Hacktoberfest 2026 — Completionist**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
+   
 
 5. **Intro to Programming — Kaggle**
 
