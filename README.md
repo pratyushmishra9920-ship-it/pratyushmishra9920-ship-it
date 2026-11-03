@@ -77,11 +77,17 @@
 
    [View Certificate ↗](https://www.hackerrank.com/certificates/iframe/c8afa5db4af9)
 
-2. **Hacktoberfest 2026 — Completionist++**
+
+2. **Introduction to Git — DataCamp**
+
+   [View Certificate ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/e7138dd1b8245336c375c09bf6eb79889786946d)
+
+
+3. **Hacktoberfest 2026 — Completionist++**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
 
-3. **Hacktoberfest 2026 — Completionist**
+4. **Hacktoberfest 2026 — Completionist**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
 
