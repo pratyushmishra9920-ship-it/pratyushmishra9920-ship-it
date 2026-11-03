@@ -77,9 +77,11 @@
 
    [View Certificate ↗](https://www.hackerrank.com/certificates/iframe/c8afa5db4af9)
 
+
 2. **Introduction to Git — DataCamp**
 
    [View Certificate ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/e7138dd1b8245336c375c09bf6eb79889786946d)
+
 
 3. **Hacktoberfest 2026 — Completionist++**
 
