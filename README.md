@@ -83,17 +83,27 @@
    [View Certificate ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/e7138dd1b8245336c375c09bf6eb79889786946d)
 
 
-3. **Hacktoberfest 2026 — Completionist++**
+3. **Introduction to Git — DataCamp (CPE: 1.6 Credits)**
+     
+   [View Certificate ↗](assets/Git_CPE_Certificate.png)
+   
+
+4. **Introduction to Python — DataCamp (CPE: 2.6 Credits)**
+ 
+   [View Certificate ↗](assets/Python_CPE_Certificate.pdf)
+
+
+5. **Hacktoberfest 2026 — Completionist++**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
    
 
-4. **Hacktoberfest 2026 — Completionist**
+6. **Hacktoberfest 2026 — Completionist**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
    
 
-5. **Intro to Programming — Kaggle**
+7. **Intro to Programming — Kaggle**
 
    [View Certificate ↗](assets/Intro%20to%20Programming.png)
 
