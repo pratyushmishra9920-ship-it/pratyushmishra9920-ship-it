@@ -73,47 +73,52 @@
 
 ### 📜 Certificates
 
-1. **HackerRank — Python (Basic)**
+1. **Intro to Machine Learning — Kaggle**
+   
+   [View Certificate ↗](assets/Intro%20to%20Machine%20Learning.png)
+
+
+3. **HackerRank — Python (Basic)**
 
    [View Certificate ↗](https://www.hackerrank.com/certificates/iframe/c8afa5db4af9)
 
 
-2. **HackerRank — SQL (Basic)**
+4. **HackerRank — SQL (Basic)**
 
    [View Certificate ↗](https://www.hackerrank.com/certificates/iframe/0af7d242ca30)
    
 
-3. **Introduction to Database and SQL — Great Learning**
+5. **Introduction to Database and SQL — Great Learning**
 
    [View Certificate ↗](https://www.mygreatlearning.com/certificate/HTZUISIU?referrer_code=GLRMG5VQ)
    
 
-4. **Introduction to Git — DataCamp**
+6. **Introduction to Git — DataCamp**
 
    [View Certificate ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/e7138dd1b8245336c375c09bf6eb79889786946d)
 
 
-5. **Introduction to Git — DataCamp (CPE: 1.6 Credits)**
+7. **Introduction to Git — DataCamp (CPE: 1.6 Credits)**
      
    [View Certificate ↗](assets/Git_CPE_Certificate.png)
    
 
-6. **Introduction to Python — DataCamp (CPE: 2.6 Credits)**
+8. **Introduction to Python — DataCamp (CPE: 2.6 Credits)**
  
    [View Certificate ↗](assets/Python_CPE_Certificate.pdf)
 
 
-7. **Hacktoberfest 2026 — Completionist++**
+9. **Hacktoberfest 2026 — Completionist++**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
    
 
-8. **Hacktoberfest 2026 — Completionist**
+10. **Hacktoberfest 2026 — Completionist**
 
    [View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
    
 
-9. **Intro to Programming — Kaggle**
+11. **Intro to Programming — Kaggle**
 
    [View Certificate ↗](assets/Intro%20to%20Programming.png)
 
