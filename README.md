@@ -93,39 +93,45 @@
    [View Certificate ↗](https://www.hackerrank.com/certificates/5a7674d852ed)
 
 
-5. **Introduction to Database and SQL — Great Learning**
+5. **Kestra Fundamentals — Kestra Academy**
+
+   [View Certificate ↗](assets/kestra.jpg)
+
+
+6. **Introduction to Database and SQL — Great Learning**
 
    [View Certificate ↗](https://www.mygreatlearning.com/certificate/HTZUISIU?referrer_code=GLRMG5VQ)
 
 
-6. **Introduction to Git — DataCamp**
+7. **Introduction to Git — DataCamp**
 
    [View Certificate ↗](https://www.datacamp.com/completed/statement-of-accomplishment/course/e7138dd1b8245336c375c09bf6eb79889786946d)
 
 
-7. **Introduction to Git — DataCamp (CPE: 1.6 Credits)**
+8. **Introduction to Git — DataCamp (CPE: 1.6 Credits)**
 
    [View Certificate ↗](assets/Git_CPE_Certificate.png)
 
 
-8. **Introduction to Python — DataCamp (CPE: 2.6 Credits)**
+9. **Introduction to Python — DataCamp (CPE: 2.6 Credits)**
 
    [View Certificate ↗](assets/Python_CPE_Certificate.pdf)
 
 
-9. **Hacktoberfest 2026 — Completionist++**
+10. **Hacktoberfest 2026 — Completionist++**
 
-   [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
+    [View Certificate ↗](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png)
 
 
-10. **Hacktoberfest 2026 — Completionist**
+11. **Hacktoberfest 2026 — Completionist**
 
     [View Certificate ↗](assets/hacktoberfest-2026-completionist-certificate-2026.png)
 
 
-11. **Intro to Programming — Kaggle**
+12. **Intro to Programming — Kaggle**
 
     [View Certificate ↗](assets/Intro%20to%20Programming.png)
+
 
 <!-- Add new certificates below using the next number. -->
 
