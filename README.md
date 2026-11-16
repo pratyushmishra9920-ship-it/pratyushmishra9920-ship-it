@@ -133,6 +133,22 @@
     [View Certificate ↗](assets/Intro%20to%20Programming.png)
 
 
+
+
+### 📜 Certifications & Learning
+
+| Domain | Certification | 
+|:---|:---|
+| 🤖 **AI / ML** | [Intro to Machine Learning — Kaggle](assets/Intro%20to%20Machine%20Learning.png) |
+| 💻 **Programming** | [Python (Basic) — HackerRank](https://www.hackerrank.com/certificates/iframe/c8afa5db4af9) |
+| 🌐 **API Development** | [REST API (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/5a7674d852ed) |
+| 🗄️ **Database & SQL** | [SQL (Basic) — HackerRank](https://www.hackerrank.com/certificates/iframe/0af7d242ca30) · [Database and SQL — Great Learning](https://www.mygreatlearning.com/certificate/HTZUISIU?referrer_code=GLRMG5VQ) |
+| ⚙️ **Automation** | [Kestra Fundamentals — Kestra Academy](assets/kestra.jpg) |
+| 🛠️ **Developer Tools** | [Git — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/e7138dd1b8245336c375c09bf6eb79889786946d) |
+| 📚 **Professional Learning** | [Git — DataCamp (1.6 CPE)](assets/Git_CPE_Certificate.png) · [Python — DataCamp (2.6 CPE)](assets/Python_CPE_Certificate.pdf) |
+| 🌟 **Open Source** | [Hacktoberfest Completionist++](assets/hacktoberfest-2026-completionist-plus-plus-certificate-2026.png) · [Completionist](assets/hacktoberfest-2026-completionist-certificate-2026.png) |
+| 🐍 **Programming Foundations** | [Intro to Programming — Kaggle](assets/Intro%20to%20Programming.png) |
+
 <!-- Add new certificates below using the next number. -->
 
 ---
