@@ -51,7 +51,8 @@
 ---
 
 
-### 📜 Certifications & Learning
+### 🏆 Certifications & Credentials
+
 
 | Domain | Certification |
 |:---|:---|
