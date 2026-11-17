@@ -55,7 +55,7 @@
 
 | Domain | Certification |
 |:---|:---|
-| 🤖 **AI / ML** | [Intermediate Machine Learning — Kaggle](https://www.kaggle.com/learn/certification/pratyushmishradev/intermediate-machine-learning)<br>[Intro to Machine Learning — Kaggle](assets/Intro%20to%20Machine%20Learning.png) |
+| 🤖 **AI / ML** | [Intermediate Machine Learning — Kaggle](https://www.kaggle.com/learn/certification/pratyushmishradev/intermediate-machine-learning)<br>[Intro to Machine Learning — Kaggle](https://www.kaggle.com/learn/certification/pratyushmishradev/intro-to-programming) |
 | 💻 **Programming** | [Python (Basic) — HackerRank](https://www.hackerrank.com/certificates/iframe/c8afa5db4af9) |
 | 🌐 **API Development** | [REST API (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/5a7674d852ed) |
 | 🗄️ **Database & SQL** | [SQL (Basic) — HackerRank](https://www.hackerrank.com/certificates/iframe/0af7d242ca30)<br>[Introduction to Database and SQL — Great Learning](https://www.mygreatlearning.com/certificate/HTZUISIU?referrer_code=GLRMG5VQ) |
